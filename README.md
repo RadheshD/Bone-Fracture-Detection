@@ -30,6 +30,3 @@ Bone fractures are a prevalent medical condition often requiring precise and tim
 2. Install dependencies (e.g., `pip install -r requirements.txt` located in `FRONTEND/`).
 3. Ensure the pre-trained model files (`.h5`, `.pkl`, `.pt`) are placed in the `BACKEND/Bone Break Classification/` directory (these large model files are excluded from Git).
 4. Run the application server (e.g., `python manage.py runserver` from the `FRONTEND/` directory).
-
-## Authors / Contributors
-- [Your Name/Team Name]
