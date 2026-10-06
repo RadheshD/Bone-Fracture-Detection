@@ -1,6 +1,6 @@
 # Bone Fracture Detection and Classification
 
-## The Abstract
+## Abstract
 This project presents a system for bone fracture detection and classification in X-ray images using machine learning. The system feeds X-ray images into a neural network model trained on a sizable dataset corresponding to various sorts of fractures. Python is used to create a software system that can import an image and supply insights about the fracture. The project contrasts Convolutional Neural Networks (CNN) and MobileNet models, and incorporates a hybrid model combining MobileNet with Random Forest.
 
 ## Introduction
